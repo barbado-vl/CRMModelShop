@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmBL", "CrmBL\CrmBL.csproj", "{05902842-4BCB-4660-8AB9-92569EC27898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmUi", "CrmUi\CrmUi.csproj", "{345F836A-BC02-4061-A2F8-4B3602DE920C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmBLTests", "CrmBLTests\CrmBLTests.csproj", "{F4B7EED0-065C-4829-8AC6-8BD70F12776F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05902842-4BCB-4660-8AB9-92569EC27898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05902842-4BCB-4660-8AB9-92569EC27898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05902842-4BCB-4660-8AB9-92569EC27898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05902842-4BCB-4660-8AB9-92569EC27898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345F836A-BC02-4061-A2F8-4B3602DE920C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345F836A-BC02-4061-A2F8-4B3602DE920C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345F836A-BC02-4061-A2F8-4B3602DE920C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345F836A-BC02-4061-A2F8-4B3602DE920C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B7EED0-065C-4829-8AC6-8BD70F12776F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B7EED0-065C-4829-8AC6-8BD70F12776F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B7EED0-065C-4829-8AC6-8BD70F12776F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B7EED0-065C-4829-8AC6-8BD70F12776F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FFE692B-33C2-4654-90C3-B888108EF209}
+	EndGlobalSection
+EndGlobal
